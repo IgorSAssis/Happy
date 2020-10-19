@@ -26,8 +26,9 @@
 ### :computer: &nbsp; Web screenshots
 
 <p align="center">
-  <img src="" width="400" /> 
-  <img src="" width="400" /> 
+  <img src="https://github.com/IgorSAssis/Happy/blob/master/.github/Happy-landing-page.png" width="400" height="250" /> 
+  <img src="https://github.com/IgorSAssis/Happy/blob/master/.github/Happy-map-page.png" width="400" height="250" /> 
+  <img src="https://github.com/IgorSAssis/Happy/blob/master/.github/orphanageDetails.gif" width="400" height="250"/>
 </p>
 
 <a name="Mobile" />
@@ -63,7 +64,7 @@ This application was made using the follow technologies:
   $ yarn install
   
   # Run application
-  $ yarn start
+  $ yarn dev
 ```
 Access API at http://localhost:3333/.
 
