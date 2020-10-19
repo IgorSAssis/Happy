@@ -26,9 +26,15 @@
 ### :computer: &nbsp; Web screenshots
 
 <p align="center">
-  <img src="https://github.com/IgorSAssis/Happy/blob/master/.github/Happy-landing-page.png" width="400" height="250" /> 
-  <img src="https://github.com/IgorSAssis/Happy/blob/master/.github/Happy-map-page.png" width="400" height="250" /> 
-  <img src="https://github.com/IgorSAssis/Happy/blob/master/.github/orphanageDetails.gif" width="400" height="250"/>
+  <a href="https://github.com/IgorSAssis/Happy/blob/master/.github/Happy-landing-page.png">
+    <img src="https://github.com/IgorSAssis/Happy/blob/master/.github/Happy-landing-page.png" width="400" height="250" /> 
+  </a>
+  <a href="https://github.com/IgorSAssis/Happy/blob/master/.github/Happy-map-page.png">
+    <img src="https://github.com/IgorSAssis/Happy/blob/master/.github/Happy-map-page.png" width="400" height="250" />
+  </a>
+  <a href="https://github.com/IgorSAssis/Happy/blob/master/.github/orphanageDetails.gif">
+    <img src="https://github.com/IgorSAssis/Happy/blob/master/.github/orphanageDetails.gif" width="400" height="250"/>
+  </a>
 </p>
 
 <a name="Mobile" />
