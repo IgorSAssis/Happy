@@ -104,4 +104,4 @@ Scan the QR code that will appear on the screen with the expo and wait a few min
 <a name="Licence" />
 
 ## :page_facing_up: &nbsp; License
-This project is under the  [MIT license](https://github.com/IgorSAssis/Proffy/blob/master/LICENSE)
+This project is under the  [MIT license](https://github.com/IgorSAssis/Happy/blob/master/LICENSE)
