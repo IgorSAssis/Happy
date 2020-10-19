@@ -14,10 +14,10 @@ import { useHistory } from "react-router-dom";
 export default function CreateOrphanage() {
 
   const [position, setPosition] = useState({ latitude: 0, longitude: 0 });
-  const [name, setName] = useState("teste");
-  const [about, setAbout] = useState("teste");
-  const [instructions, setInstructions] = useState("teste");
-  const [opening_hours, setOpeningHours] = useState("testse");
+  const [name, setName] = useState("");
+  const [about, setAbout] = useState("");
+  const [instructions, setInstructions] = useState("");
+  const [opening_hours, setOpeningHours] = useState("");
   const [open_on_weekends, setOpenOnWeekends] = useState(true);
   const [images, setImages] = useState<File[]>([]);
   const [previewImages, setPreviewImages] = useState<string[]>([]);
